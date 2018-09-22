@@ -1,0 +1,201 @@
+﻿body
+{
+	background-image: url("bright.jpg");
+	margin: 0px;
+}
+
+.navbarcustom
+{
+	height: 75px;
+	background-image: linear-gradient(to right, rgb(75,75,75) , rgb(30,30,30));
+}
+
+input[type=text30]
+{
+	width: 300px;
+	padding: 8px 20px;
+	border-radius: 5px;
+	margin-top: 16px;
+	border: 1px solid rgb(189,199,216);
+	font-size: 20px;
+}
+
+.custrow:after {
+    content: "";
+    display: table;
+    clear: both;
+	margin: 0px;
+}
+
+
+.column75
+{
+	float: left;
+	width: 75%;
+}
+
+.column20
+{
+	float: left;
+	width: 20%;
+}
+
+.column55
+{
+	float: left;
+	width: 55%;
+}
+
+.column25
+{
+	float: left;
+	width: 25%;
+}
+
+.logbutton
+{
+	background-color: yellow;
+	color: black;
+	border: 2px solid rgb(154,172,26);
+	border-radius: 6px;
+	text-align: center;
+	font-size: 18px;
+	padding: 8px 20px;
+	margin-top: 16px;
+	margin-right: 10px;
+	transition-duration: 0.3s;
+	cursor: pointer;
+}
+
+.logbutton:hover
+{
+	background-color: rgb(251,190,32);
+	color: black;
+}
+
+.logo
+{
+	font-size: 40px;
+	margin-right: 20px;
+	font-decoration: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	width: 100%;
+	margin-left: 27px;
+	margin-top: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thickborder
+{
+	border: 2px solid rgb(56,56,56);
+}
+
+.medal
+{
+	margin-top: 12px;
+}
+
+.points1
+{
+	border-radius: 5px;
+	background-color: rgb(255,74,74);
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-decoration: bold;
+	font-size: 20px;
+	width: 120px;
+	padding: 6px;
+	border: 2px solid rgb(176,0,0);
+	margin-top: 27px;
+}
+
+.points
+{
+	border-radius: 5px;
+	background-color: rgb(255,74,74);
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-decoration: bold;
+	font-size: 16px;
+	width: 90px;
+	padding: 4px;
+	border: 2px solid rgb(176,0,0);
+	margin-top: 22px;
+}
+
+.card:hover
+{
+	background-color: rgb(154,227,252);
+	transition-duration: 0.5s;
+	cursor: pointer;
+}
+
+.imgcircle
+{
+	border-radius: 50%;
+}
+
+.tdroll
+{
+	width: 5%;
+}
+
+.tdpic
+{
+	width: 15%;
+}
+
+.tdname
+{
+	width: 60%;
+}
+
+.tdpoints
+{
+	width: 10%;
+}
+
+.tdlink
+{
+	width: 10%;
+}
+
+.logbuttonbig
+{
+	background-color: yellow;
+	color: black;
+	border: 2px solid rgb(154,172,26);
+	border-radius: 6px;
+	text-align: center;
+	font-size: 24px;
+	padding: 12px 30px;
+	margin-top: 16px;
+	margin-right: 45px;
+	transition-duration: 0.3s;
+	cursor: pointer;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logbuttonbig:hover
+{
+	background-color: rgb(251,190,32);
+	color: black;
+}
+
+input[type=text60]
+{
+	width: 100%;
+	padding: 8px 20px;
+	border-radius: 5px;
+	margin: 4px;
+	border: 1px solid rgb(189,199,216);
+	font-size: 20px;
+	text-align: center;
+}
